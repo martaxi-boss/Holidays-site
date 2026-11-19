@@ -176,7 +176,13 @@ Medições recomendadas: `clicks_out`, `awin_clicks`, `transactions_pending`, `t
 - Acesso a feeds e APIs, cobertura de todas as localidades, legal/compliance, stack, hospedagem e orçamento.
 - Validação de pesquisa real no Google UK, datas de deploy e metas quantitativas baseadas em dados.
 
-## 14. Documentação e continuidade
+## 14. Reutilização e exemplos de GitHub público (pesquisa 2026-11-19)
+
+Foi feita uma pesquisa de projetos **públicos de terceiros** para evitar criar toda a base de origem. A lista documentada está em [docs/GITHUB_PUBLIC_REFERENCES.md](docs/GITHUB_PUBLIC_REFERENCES.md), com links, demos, licenças e riscos. **Candidatos a protótipo:** MasuRii Travelblog (Astro, destinos, mapa, pesquisa; MIT) e Themefisher Bookworm Light Astro (base editorial e SEO; MIT); AstroPaper MIT é alternativa forte de conteúdo. Travello e Tourism Website servem como referências de apresentação. Pagefind, Leaflet e Lychee são funcionalidades pontuais.
+
+**Não foi ainda escolhido framework definitivo, nem clonado/instalado/incorporado código, nem feita auditoria de dependências ou build.** Os repositórios de terceiros não têm autorização para alterar as cinco categorias, quatro parceiros ou âmbito exclusivo do Algarve. Testar as duas bases em ambiente isolado antes de escolher uma, sem instalar serviços globais ou trazer licenças/fotografias não permitidas. Não copiar código de repositórios sem licença verificada.
+
+## 15. Documentação e continuidade
 
 | Documento | Função |
 |---|---|
