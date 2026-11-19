@@ -22,7 +22,7 @@ Documentos vinculativos: [../BOOTSTRAP.md](../BOOTSTRAP.md), [PARTNERS_AWIN.md](
 
 ## 2. Etapa A — Preparação sem complicar (primeiro sprint)
 
-- [ ] Confirmar requisitos de conteúdo para UK e estudar SERPs concorrentes por Albufeira, Lagos, Portimão/Praia da Rocha, Tavira e Faro Airport.
+- [ ] Confirmar requisitos de conteúdo para UK e estudar SERPs concorrentes por **Faro (cidade e aeroporto), Vilamoura, Quinta do Lago**, Albufeira, Lagos, Portimão/Praia da Rocha e Tavira.
 - [ ] Criar lista de palavras-chave com procura/concorrência **reais e fontes datadas** (ainda não foi feita).
 - [ ] Escolher marca e domínio, verificando disponibilidade antes de comprar.
 - [ ] Selecionar stack simples e compatível com Google; evitar backend complexo antes de haver procura.
@@ -44,8 +44,8 @@ Documentos vinculativos: [../BOOTSTRAP.md](../BOOTSTRAP.md), [PARTNERS_AWIN.md](
 - [ ] `/holidays-cruises/`
 - [ ] `/tours-activities/`
 - [ ] `/airport-transfers/`
-- [ ] Albufeira, Lagos, Portimão/Praia da Rocha, Tavira
-- [ ] Faro Airport transfers + 1 ou 2 rotas fortes
+- [ ] Destinos principais: **Faro cidade, Vilamoura, Quinta do Lago**, Albufeira, Lagos, Portimão/Praia da Rocha e Tavira; **fasear o lançamento** para preservar qualidade editorial.
+- [ ] Faro Airport transfers + 1 ou 2 rotas fortes; avaliar também destinos Vilamoura e Quinta do Lago quando existirem ofertas/links válidos.
 - [ ] Transparência publicitária, privacidade e contactos
 
 **Qualidade mínima:**
@@ -175,5 +175,6 @@ O proprietário já utiliza GitHub e infraestrutura VPS com entrega por GitHub A
 | 2026-11-19 | Selecionados Holidu UK, Logitravel (2 categorias), Viator UK e SunTransfers | candidatos; não aderidos |
 | 2026-11-19 | Aprovada estratégia de um parceiro principal por categoria e substituição individual | planeamento |
 | 2026-11-19 | Bootstrap inicial arquivado no repositório Holidays-site | documentação |
+| 2026-11-19 | Acrescentados **Faro cidade**, **Vilamoura** e **Quinta do Lago** ao grupo de destinos principais, sem excluir as outras localidades do Algarve | documentação |
 
 **Próxima atualização:** preencher o histórico com decisões comprovadas de domínio, site publicado, aprovação Awin, links e resultados — não adivinhar.
