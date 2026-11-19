@@ -28,6 +28,8 @@
 
 **Logitravel é propositadamente o único parceiro repetido.** Um parceiro principal por categoria; pode ser substituído de forma isolada após análise de tracking, conversões e rentabilidade.
 
+**Destinos principais (adenda 2026-11-19):** **Faro (cidade e aeroporto), Vilamoura e Quinta do Lago** fazem parte da prioridade editorial, juntamente com Albufeira, Lagos, Portimão/Praia da Rocha e Tavira. O projeto continua a abranger **todo o Algarve**, incluindo localidades menores.
+
 ## Princípios permanentes
 
 1. **Só Algarve** no conteúdo e navegação; **mercado UK**, idioma `en-GB`.
