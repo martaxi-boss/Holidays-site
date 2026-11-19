@@ -25,21 +25,21 @@ Os cinco botões são o núcleo de monetização; **os destinos e guias locais s
 |---|---|---|
 | Costa Vicentina/Oeste | Aljezur, Burgau, Salema | praias, férias tranquilas, acessos, passeios |
 | Barlavento | Lagos, Alvor, Portimão, Praia da Rocha | grutas, barcos, praias, alojamento, aeroporto |
-| Centro | Albufeira, Armação de Pêra | férias de família, resorts, barco, golfinhos, transfers |
-| Sotavento | Faro/Faro Airport, Olhão, Tavira, Manta Rota, Altura, Monte Gordo | Ria Formosa, praias, viagens em família, transporte |
+| Centro e área de Loulé | Albufeira, Armação de Pêra, **Vilamoura**, **Quinta do Lago** | férias de família, marina, golfe, resorts, praias, transfers |
+| Sotavento | **Faro (cidade e aeroporto)**, Olhão, Tavira, Manta Rota, Altura, Monte Gordo | centro histórico de Faro, Ria Formosa, praias, viagens em família, transporte |
 
 A cobertura editorial é **para todo o Algarve**, mas o lançamento deve concentrar recursos em páginas de qualidade. As localidades menores **não estão abandonadas**; entram numa fila editorial organizada.
 
 ### Ordem inicial proposta (hipótese até estudo de procura)
 1. Visão geral Algarve + 5 páginas das categorias.
-2. Albufeira, Lagos, Portimão/Praia da Rocha, Tavira.
+2. **Faro (cidade), Vilamoura e Quinta do Lago** têm prioridade explícita, ao lado de Albufeira, Lagos, Portimão/Praia da Rocha e Tavira.
 3. Faro Airport transfers, com ligações específicas para destinos com procura.
 4. Alvor, Armação de Pêra, Olhão, Aljezur, Burgau, Salema.
 5. Manta Rota, Altura, Monte Gordo e restantes localidades, mediante conteúdos e oportunidades reais.
 
 Não duplicar páginas apenas mudando o nome de uma cidade, pois isso não cria valor.
 
-## 3. Mapa de páginas inicial — 10 a 15 páginas únicas
+## 3. Backlog de páginas prioritárias — lançar 10 a 15 páginas únicas primeiro
 
 | Página proposta (URL indicativa) | Intenção | Categoria de receita |
 |---|---|---|
@@ -54,12 +54,15 @@ Não duplicar páginas apenas mudando o nome de uma cidade, pois isso não cria 
 | `/destinations/portimao/` | Portimão destination guide | todas aplicáveis |
 | `/destinations/praia-da-rocha/` | Praia da Rocha guide | todas aplicáveis |
 | `/destinations/tavira/` | Tavira destination guide | todas aplicáveis |
+| `/destinations/faro/` | Faro city guide (além do aeroporto) | todas aplicáveis |
+| `/destinations/vilamoura/` | Vilamoura marina, resorts and activities | todas aplicáveis |
+| `/destinations/quinta-do-lago/` | Quinta do Lago villas, resorts and golf context | todas aplicáveis |
 | `/albufeira-boat-trips/` | boat trips Albufeira | Viator |
 | `/benagil-cave-tours/` | Benagil tours | Viator |
 | `/faro-airport-transfers-to-lagos/` | transfers Faro ↔ Lagos | SunTransfers |
 | `/faro-airport-transfers-to-albufeira/` | transfers Faro ↔ Albufeira | SunTransfers |
 
-**Priorizar qualidade e publicação real**; as URLs propostas não são obrigações rígidas e ainda não existem. Sempre que uma página exija preços, horários ou disponibilidade, utilizar apenas fontes verificadas/feeds autorizados.
+**Priorizar qualidade e publicação real**; este backlog contém mais de 15 ideias e **não obriga a publicar todas no primeiro dia**. Faro (cidade), Vilamoura e Quinta do Lago devem entrar no primeiro ciclo editorial, sem apagar destinos já previstos. As URLs propostas não existem ainda. Sempre que uma página exija preços, horários ou disponibilidade, utilizar apenas fontes verificadas/feeds autorizados.
 
 ## 4. Exemplos de keywords para investigação real
 
@@ -69,9 +72,9 @@ Não duplicar páginas apenas mudando o nome de uma cidade, pois isso não cria 
 - `Benagil caves tours`; `Benagil boat trip from Portimao`.
 - `Lagos Algarve things to do`; `dolphin watching Algarve`.
 - `family activities in Algarve`; `Algarve with kids`.
-- `Faro airport to Lagos transfer`; `Faro airport to Tavira transfer`.
+- `Faro airport to Lagos transfer`; `Faro airport to Tavira transfer`; `Faro airport to Vilamoura transfer`; `Faro airport to Quinta do Lago transfer`.
 - `villas in Lagos Algarve`; `Albufeira family resorts`.
-- `Tavira beach guide`; `Manta Rota beach`; `Alvor holidays`.
+- `Tavira beach guide`; `Manta Rota beach`; `Alvor holidays`; `Faro old town guide`; `Vilamoura marina Algarve`; `Quinta do Lago villas Algarve`.
 
 **Pesquisa antes de produção:** validar Google UK, volume, sazonalidade, intenção, resultados de pesquisa, qualidade dos concorrentes e possibilidade real de apresentar uma oferta/resposta superior. Evitar *keyword stuffing*.
 
@@ -123,6 +126,8 @@ Cada destino deve conter informação original suficiente para justificar indexa
 Nunca confundir tráfego de Facebook/Meta com tráfego orgânico Google ou tratar um clique social como melhoria automática de ranking.
 
 ## 8. Calendário editorial
+
+**Adenda 2026-11-19:** o proprietário identificou **Faro, Vilamoura e Quinta do Lago como destinos principais**. Para Faro, tratar a cidade e o aeroporto como intenções de pesquisa diferentes. Para Vilamoura, explorar marina, alojamentos, golfe e atividades; para Quinta do Lago, alojamentos, férias familiares e golfe, sempre com dados e ofertas verificados.
 
 ### Novembro–Dezembro 2026
 - Pesquisa real de keywords UK e auditoria rápida dos concorrentes.
