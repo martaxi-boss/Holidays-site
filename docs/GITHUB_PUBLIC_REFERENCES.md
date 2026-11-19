@@ -2,7 +2,7 @@
 
 **Data da pesquisa:** 19 de novembro de 2026  
 **Projeto de destino:** [martaxi-boss/Holidays-site](https://github.com/martaxi-boss/Holidays-site)  
-**Estado:** **REFERÊNCIAS DOCUMENTADAS**, não é seleção técnica final, código incorporado, fork, instalação, build testado nem site publicado.  
+**Estado:** **REFERÊNCIAS DOCUMENTADAS** e recomendação de protótipo em [DECISAO_TECNICA_2026.md](DECISAO_TECNICA_2026.md); não é código incorporado, fork, instalação, build testado nem site publicado.  
 **Objetivo:** evitar reconstruir do zero um portal de conteúdos turísticos, exclusivamente sobre o **Algarve**, em inglês britânico, com **5 categorias comerciais e 4 parceiros Awin**.
 
 > **Invariantes comerciais:** Villas & Apartments → **Holidu UK**; Hotels & Resorts → **Logitravel**; Holidays & Cruises → **Logitravel**; Tours & Activities → **Viator UK**; Airport Transfers → **SunTransfers**. Um parceiro principal por categoria, substituível por configuração/links sem destruir URLs e SEO. Não desenvolver checkout ou reservas próprias. Ver [BOOTSTRAP](../BOOTSTRAP.md).
@@ -11,7 +11,7 @@
 
 A pesquisa encontrou **um template diretamente próximo da nossa necessidade** (blog de viagens com destinos, mapa e pesquisa), **duas alternativas muito boas para SEO editorial**, alguns projetos interessantes de apresentação e bibliotecas maduras para funcionalidades pontuais.
 
-**Caminho mais promissor para um primeiro protótipo:** comparar, num ambiente isolado, **MasuRii/travelblog-website-template** (adaptação maior, mas com mapa/destinos de origem) com **themefisher/bookworm-light-astro** (blog de conteúdos mais simples). **AstroPaper** é uma terceira opção de arquitetura editorial leve. Todos os três têm licenças MIT verificadas em ficheiros de licença. Não tomar a decisão só pelo aspeto das demos nem instalar tudo ao mesmo tempo.
+**Decisão recomendada nesta fase (2026-11-19):** primeiro protótipo com **MasuRii/travelblog-website-template** (já tem destinos, mapa e pesquisa); **themefisher/bookworm-light-astro** é fallback se o primeiro não passar build, QA ou simplificação. **AstroPaper** é terceira opção de arquitetura editorial. Licenças MIT foram verificadas nos três casos. Ver [decisão técnica](DECISAO_TECNICA_2026.md) e [planta do MVP](BLUEPRINT_MVP_ALGARVE.md). Não instalar vários templates juntos.
 
 **Estratégia de reutilização:** escolher **uma base de código**, adaptar rotas, dados e layout para o Algarve, e aproveitar componentes pontuais com licenças compatíveis. Não misturar vários templates inteiros, o que multiplicaria dependências e problemas de manutenção. O modelo comercial continua a ser **links de afiliado**, não motor de reservas.
 
@@ -116,6 +116,14 @@ A pesquisa encontrou **um template diretamente próximo da nossa necessidade** (
 - **Para quê:** encontrar ligações editoriais quebradas em páginas/Markdown e integrar verificações não intrusivas no CI.
 - **Restrição:** **não fazer cliques automáticos repetidos nos links de tracking Awin**, pois isso pode produzir cliques artificiais e violar regras de afiliação. Excluir tracking de testes automáticos de crawling; validar destinos afiliados manualmente e com processos autorizados.
 - **Quando:** fase de QA, após existir site.
+
+### A5. SriGuide — exemplo open source de guia turístico regional
+
+- **Repositório:** https://github.com/Camino-lk/SriGuide
+- **Licença:** **MIT — verificada** em https://github.com/Camino-lk/SriGuide/blob/main/LICENSE
+- **Stack:** Astro + Starlight, estrutura por Transport, Accommodation, Attractions, Safety, etc.; site para uma região-país específico.
+- **Utilidade:** arquitetura de navegação e guias de viagem, páginas de informação prática; não é montra afiliada nem base preferida pela estética documental.
+- **Commit de referência no estudo:** `818c3a64e41bcd0b7d03c4a2da059cb9ac0dd3bf`.
 
 ## 3. Repositórios encontrados que NÃO se recomendam como base
 
