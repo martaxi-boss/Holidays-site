@@ -13,6 +13,7 @@
 - [docs/PARTNERS_AWIN.md](docs/PARTNERS_AWIN.md) — matriz detalhada dos 4 parceiros principais, 5 categorias, condições, riscos, alternativas e verificação do tracking.
 - [docs/SEO_ALGARVE_2027.md](docs/SEO_ALGARVE_2027.md) — estratégia de conteúdo, localidades, SEO para UK e calendário até ao verão de 2027.
 - [docs/EXECUTION_PLAN.md](docs/EXECUTION_PLAN.md) — plano de lançamento, tarefas, critérios de aceitação, medições e guardrails operacionais.
+- [docs/GITHUB_PUBLIC_REFERENCES.md](docs/GITHUB_PUBLIC_REFERENCES.md) — **pesquisa de 10 projetos públicos reutilizáveis**, demos, licenças, exemplos de design e opções para não construir tudo do zero.
 
 > **Importante:** a presença de uma marca na documentação não significa adesão ou aprovação do programa Awin. As taxas e condições devem ser confirmadas no momento da adesão. Cliques não garantem comissão.
 
