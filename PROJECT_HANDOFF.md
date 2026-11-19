@@ -6,7 +6,11 @@
 **Destinatários:** proprietário, ChatGPT Work, Codex, Ferrari e futuros colaboradores técnicos.  
 **Este é o ponto de entrada para retomar o trabalho sem repetir a discussão.** Leia primeiro este ficheiro e depois os documentos específicos no índice abaixo.
 
-## Adenda final — quatro candidaturas Awin pendentes, 19/11/2026
+## Atualização adicional — Logitravel UK pendente, 19/11/2026
+
+O proprietário pediu candidatura adicional ao programa **Logitravel UK 8094** e confirmou os seus termos. Pedido submetido na Awin e **Pending Approval** confirmado no navegador. A candidatura PT não foi retirada. Cinco programas candidatados, quatro empresas e cinco categorias; programa final PT/UK a esclarecer sem duplicar parceiro ativo por categoria. UK apresentou **Exposure Level 4** relativo a limite de crédito e liquidação; esclarecimento pedido na candidatura. Site ainda inexistente. Ver mensagens e próximos passos em [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md).
+
+## Adenda anterior — quatro candidaturas Awin pendentes, 19/11/2026
 
 Depois do login pelo proprietário e da confirmação final para aceitar termos/submeter, foram enviados os quatro formulários **Join Programme**: Holidu UK 31469, Logitravel PT 11173, Viator UK 7038 e SunTransfers 111238. **Os quatro perfis exibem Pending Approval**, confirmado no navegador. Foi usado o tipo promocional Content, sem selecionar outro website, com mensagem verdadeira sobre projeto ainda sem site. A Logitravel recebeu uma candidatura para duas categorias.
 
