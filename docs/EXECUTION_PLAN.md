@@ -24,8 +24,11 @@ Documentos vinculativos: [../BOOTSTRAP.md](../BOOTSTRAP.md), [PARTNERS_AWIN.md](
 
 - [ ] Confirmar requisitos de conteúdo para UK e estudar SERPs concorrentes por **Faro (cidade e aeroporto), Vilamoura, Quinta do Lago**, Albufeira, Lagos, Portimão/Praia da Rocha e Tavira.
 - [ ] Criar lista de palavras-chave com procura/concorrência **reais e fontes datadas** (ainda não foi feita).
-- [ ] Comparar as **duas bases públicas candidatas** [MasuRii Travelblog](https://github.com/MasuRii/travelblog-website-template) e [Bookworm Light Astro](https://github.com/themefisher/bookworm-light-astro), conforme [GITHUB_PUBLIC_REFERENCES.md](GITHUB_PUBLIC_REFERENCES.md): licença, dependências, build, mobile, SEO, complexidade, direitos de imagens e facilidade de adaptar 5 categorias/4 parceiros. **Ainda não foi feito build ou instalação.**
-- [ ] Selecionar **uma única base técnica** após os testes e registar o commit upstream utilizado; não juntar vários templates inteiros.
+- [x] Investigar repositórios públicos e sites reais; ver [GITHUB_PUBLIC_REFERENCES.md](GITHUB_PUBLIC_REFERENCES.md) e [REFERENCIAS_WEB_REAIS.md](REFERENCIAS_WEB_REAIS.md).
+- [x] Recomendar **MasuRii Travelblog (Astro, MIT)** como **primeira base de protótipo** e **Bookworm Astro (MIT)** como fallback, com critérios em [DECISAO_TECNICA_2026.md](DECISAO_TECNICA_2026.md).
+- [x] Preparar [BLUEPRINT_MVP_ALGARVE.md](BLUEPRINT_MVP_ALGARVE.md) com UX, categorias, destinos e modelo de dados.
+- [ ] Clonar apenas a base candidata em ambiente isolado, verificar licença/assets/dependências e executar build, lint, QA mobile/SEO antes de a adotar. **Ainda não foi feito build nem instalação.**
+- [ ] Aprovar a **base técnica definitiva** após os testes isolados e registar o commit upstream utilizado; não juntar vários templates inteiros.
 - [ ] Escolher marca e domínio, verificando disponibilidade antes de comprar.
 - [ ] Selecionar stack simples e compatível com Google; evitar backend complexo antes de haver procura.
 - [ ] Organizar conteúdo e configuração de parceiros separadamente para permitir troca de parceiro sem reescrever rotas.
@@ -178,5 +181,6 @@ O proprietário já utiliza GitHub e infraestrutura VPS com entrega por GitHub A
 | 2026-11-19 | Aprovada estratégia de um parceiro principal por categoria e substituição individual | planeamento |
 | 2026-11-19 | Bootstrap inicial arquivado no repositório Holidays-site | documentação |
 | 2026-11-19 | Acrescentados **Faro cidade**, **Vilamoura** e **Quinta do Lago** ao grupo de destinos principais, sem excluir as outras localidades do Algarve | documentação |
+| 2026-11-19 | Pesquisa web/GitHub alargada; MasuRii/Astro recomendado para primeiro protótipo, Bookworm fallback; benchmark e blueprint de interface arquivados | documentação / testes pendentes |
 
 **Próxima atualização:** preencher o histórico com decisões comprovadas de domínio, site publicado, aprovação Awin, links e resultados — não adivinhar.
