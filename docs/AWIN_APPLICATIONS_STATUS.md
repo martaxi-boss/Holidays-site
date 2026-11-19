@@ -1,4 +1,74 @@
-# Awin — pedidos de pré-parceria do Holidays Site Algarve
+# Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
+
+## Estado atual — candidaturas formais submetidas em 19/11/2026
+
+Após o proprietário concluir o login e confirmar expressamente a aceitação dos termos e o envio, foram submetidos **os quatro pedidos dentro da Awin**, na conta Lowcost 3157353. Método: formulário **Join Programme**, tipo promocional **Content**, mensagem individual, aceitação dos termos específicos e botão **Join**.
+
+| Parceiro | Advertiser ID | Candidatura formal | Estado confirmado no navegador | Pré-parceria por email anterior | Aprovação concedida |
+|---|---:|---|---|---|---|
+| Holidu UK | 31469 | Submetida em 19/11/2026 | **Pending Approval** | Enviada | Não |
+| Logitravel PT | 11173 | Submetida em 19/11/2026 | **Pending Approval** | Enviada | Não |
+| Viator UK | 7038 | Submetida em 19/11/2026 | **Pending Approval** | Enviada | Não |
+| SunTransfers | 111238 | Submetida em 19/11/2026 | **Pending Approval** | Enviada | Não |
+
+**Agora existem candidaturas pendentes na Awin.** Isto substitui o estado inicial de contactos apenas por email documentado no histórico abaixo. Não há pré-aprovação concedida, manifestação de interesse recebida nem aprovação definitiva demonstrada. A confirmação automática de receção não é uma decisão do anunciante.
+
+### Evidência da operação e limites
+
+- O login foi concluído pelo proprietário no navegador; confirmou-se a conta Lowcost (3157353).
+- Os quatro formulários permitiram selecionar **Content** sem indicar um website específico. Nenhum domínio dos outros projetos foi selecionado.
+- Cada mensagem declara ausência de website, domínio final, tráfego e vendas. É solicitado exame condicional em fase de pré-lançamento.
+- Cada formulário foi submetido uma única vez. A Logitravel recebeu **uma** candidatura para as suas duas categorias.
+- Após a submissão, os quatro perfis exibiram **Pending Approval** e os formulários deixaram de estar visíveis. A captura de confirmação SunTransfers também exibiu “Thanks. Your request to join has been sent to the advertiser”.
+- O cabeçalho dos perfis ainda indica “Not Joined”, em simultâneo com “Pending Approval”: isso significa que a adesão ainda não foi aprovada. Não confundir o rótulo do cabeçalho com ausência da candidatura.
+- O formulário aceitar o pedido não garante que o gestor aceite definitivamente um projeto sem site.
+- Não foi mudado programa, criado website ou assumido compromisso pago.
+
+### Próximas ações por parceiro
+
+- **Holidu UK:** aguardar decisão; fornecer portal em inglês para revisão quando solicitado/publicado; confirmar reservas Algarve diretamente na Holidu, taxa/base e exclusões.
+- **Logitravel PT:** aguardar decisão e confirmação escrita UK → Algarve, hotéis/resorts, pacotes/cruzeiros, idioma e destinos de tracking. Voos isolados excluídos nos termos consultados. Logitravel UK 8094 continua apenas opção para esclarecer, sem alteração.
+- **Viator UK:** aguardar decisão; cumprir site inglês relevante, links/feed autorizados, rel=sponsored e exclusões; confirmar produtos elegíveis do Algarve.
+- **SunTransfers:** aguardar decisão; confirmar Faro/rotas, serviços e público UK, taxa/base e ferramentas autorizadas.
+
+Podemos preparar o desenvolvimento, mas ainda não contar com parceria ou receita garantida. Requisitos editoriais, técnicos e comerciais anteriormente identificados permanecem no histórico abaixo; responder às exigências adicionais dos gestores. Só ativar links monetizados após aprovação, elegibilidade e testes de tracking.
+
+## Mensagens efetivamente submetidas dentro da Awin
+
+Limite do formulário: 1000 caracteres por candidatura. Os emails anteriores contêm a apresentação mais longa e as oito perguntas completas.
+
+### Holidu UK — 31469
+
+```text
+Holidays Site - Algarve is a NEW, independent pre-launch project under Lowcost (3157353). No website, final domain, traffic or sales yet. This application concerns the future portal, not our other sites. We plan a professional en-GB Algarve guide for UK holidaymakers, with original destination content and organic UK SEO, preparing for the 2027 season. Holidu UK would be the principal Villas & Apartments partner. Visitors would book/pay on Holidu; we provide content and referrals only. Please assess conditionally: do you accept applications before launch or offer pre-approval? What website/content/technical/traffic requirements apply? Are UK visitors booking Algarve stays eligible? Please confirm commission rate/basis, exclusions, attribution, directly bookable inventory, deep links/banners/feeds/API access and whether to recontact after launch. We understand third-party redirected bookings are excluded. Detailed proposal emailed today to affiliate@holidu.com.
+```
+
+### Logitravel PT — 11173
+
+```text
+Holidays Site - Algarve is a NEW independent project under Lowcost 3157353: no website, final domain, traffic or sales yet; our other sites are unrelated. Planned professional en-GB portal for UK holidaymakers, original Algarve destination guides and organic UK SEO, preparing for 2027. Logitravel would cover Hotels & Resorts and Holidays & Cruises through ONE application. Bookings/payments/support stay with you. Please assess conditionally: accept pre-launch applications/pre-approval? What final site/content/technical/traffic requirements and recontact after launch? Does PT programme 11173 remunerate UK residents booking Algarve hotels/resorts, packages with UK departures and relevant cruises? Confirm rates/basis, exclusions, attribution and deep links/banners/feeds/API. We understand flights-only are excluded and paid search prohibited. Is a UK Logitravel programme more suitable? No programme change requested. Full proposal emailed today to marketingonline+affiliates@logitravel.com.
+```
+
+### Viator UK — 7038
+
+```text
+Holidays Site - Algarve is a NEW independent pre-launch project under Lowcost 3157353. No website, final domain, traffic or sales yet; our other sites are unrelated. We plan an en-GB portal for UK holidaymakers, original Algarve destination guides and organic UK SEO, preparing for 2027. Viator UK would be principal Tours & Activities partner: boat trips, Benagil tours, dolphin watching and other available experiences. Visitors book/pay with you; we provide content/referrals. Please assess conditionally: accept applications before publication or conditional pre-approval? What website/content/technical/traffic requirements? Are UK visitors booking Algarve activities eligible? Confirm rates/basis, exclusions, attribution, deep links/banners/feeds/widget/API access and whether to recontact after launch. We understand theme parks, virtual tours and travel-agent bookings are excluded. Approved Awin links/content only, rel=sponsored. Full proposal emailed today to global-viator@awin.com.
+```
+
+### SunTransfers — 111238
+
+```text
+Holidays Site - Algarve is a NEW independent pre-launch project under Lowcost 3157353. No website, final domain, traffic or sales yet; our other sites are unrelated. Planned professional en-GB Algarve portal for UK holidaymakers, original destination guides and organic UK SEO, preparing for 2027. SunTransfers would be principal Airport Transfers partner: Faro Airport to Albufeira, Lagos, Vilamoura, Quinta do Lago, Tavira and other covered destinations. Visitors book/pay with you; we provide content/referrals. Please assess conditionally: accept applications before publication or conditional pre-approval? What website/content/technical/traffic requirements? Confirm UK customer eligibility, Faro routes, private/shared services, rates/basis, exclusions, attribution and validation; English/GBP landing pages and deep links/banners/widgets/feeds/API access? Must we recontact after launch? We will respect brand and disclosure rules. Full proposal emailed today to affiliates@suntransfers.com.
+```
+
+
+---
+
+## Histórico anterior — antes das candidaturas formais
+
+**Atenção:** todas as indicações de “candidatura não submetida”, “Not joined” e limitações de login nas secções históricas seguintes descrevem a fase anterior, já ultrapassada pela submissão acima. Mantêm-se para preservar os emails enviados, condições e sequência de evidência.
+
+### Registo inicial dos pedidos por email
 
 **Atualizado:** 19/11/2026, contactos enviados às 21:26 (Europe/Lisbon).  
 **Projeto:** preparação comercial; website ainda inexistente, sem domínio definitivo, tráfego ou vendas.  
