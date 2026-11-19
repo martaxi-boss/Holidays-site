@@ -1,6 +1,26 @@
 # Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
 
-## Estado atual — candidaturas formais submetidas em 19/11/2026
+## Atualização — Logitravel UK 8094 também submetida
+
+**Data:** 19/11/2026. Por pedido adicional do proprietário e confirmação expressa dos termos, foi submetida a candidatura **Logitravel UK, Advertiser ID 8094**, na conta Lowcost 3157353.
+
+- Método: navegador autenticado, Join Programme, promoção **Content**, mensagem abaixo, aceitação dos termos específicos e botão Join.
+- **Estado confirmado: Pending Approval.** O perfil apresentou esse botão e a confirmação “Thanks. Your request to join has been sent to the advertiser”; o formulário deixou de estar visível.
+- Candidatura formal enviada, **sem aprovação nem pré-aprovação concedida**.
+- A candidatura PT 11173 não foi retirada. Há agora cinco candidaturas a programas, mantendo quatro empresas parceiras e cinco categorias. Não se pretende dupla comissão nem dois parceiros ativos na mesma categoria.
+- A mensagem declara projeto novo sem website/domínio/tráfego/vendas, público UK e SEO en-GB para Algarve/2027, e informa da candidatura PT pendente. Solicita orientação sobre o programa correto.
+- O perfil UK indicava **Exposure Level 4**, definido pela Awin como anunciante que excedeu o limite de crédito e os prazos de liquidação; comissões aprovadas são pagas após o anunciante pagar à Awin. Prazo médio mostrado: 99 dias. Foi pedido esclarecimento sobre o estado de pagamentos na própria candidatura.
+- Perfil menciona hotéis/pacotes e comissões “até 6%”, cookie de 30 dias; isso não confirma taxa individual contratada, cruzeiros/voos isolados ou elegibilidade de cada produto Algarve. Foram perguntados expressamente.
+- Próximos passos: aguardar decisão e confirmação UK → Algarve, serviços, taxas/exclusões, ferramentas e pagamentos; escolher a configuração final PT/UK após esclarecimento, preservando a arquitetura do portal. Nenhum CTA ativado nem site criado.
+- Fonte observada: https://ui.awin.com/awin/affiliate/3157353/merchant-profile/8094 .
+
+### Mensagem submetida à Logitravel UK
+
+```text
+Holidays Site - Algarve is a NEW independent pre-launch project under Lowcost 3157353: no website, final domain, traffic or sales yet; our other sites are unrelated. Planned en-GB portal for UK holidaymakers visiting Algarve, Portugal, with original destination guides and organic UK SEO, preparing for 2027. Logitravel would cover Hotels & Resorts and Holidays & Cruises; bookings/payments/support remain with you. Please assess conditionally: do you accept pre-launch applications/pre-approval? What site/content/technical/traffic requirements and recontact after launch? Confirm UK residents' Algarve hotels/resorts, UK-departure packages and relevant cruises, rates/basis, exclusions including flights-only, attribution and deep links/banners/feeds/API. A PT programme 11173 application is pending; we now request UK 8094 assessment as our audience is British. Please advise which programme applies; no double commission is sought. Please clarify current payment delays/status shown by Awin.
+```
+
+## Estado anterior — candidaturas formais submetidas em 19/11/2026
 
 Após o proprietário concluir o login e confirmar expressamente a aceitação dos termos e o envio, foram submetidos **os quatro pedidos dentro da Awin**, na conta Lowcost 3157353. Método: formulário **Join Programme**, tipo promocional **Content**, mensagem individual, aceitação dos termos específicos e botão **Join**.
 
