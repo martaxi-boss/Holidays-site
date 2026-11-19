@@ -6,6 +6,8 @@
 **Âmbito:** Algarve, Portugal; público britânico; site em inglês britânico (`en-GB`).  
 **Objetivo:** começar antes do inverno de 2026/27 a captar sinais de SEO e estar comercialmente preparado para o verão de **2027**.
 
+**Para retomar a implementação sem reler toda a conversa:** começar pelo [PROJECT_HANDOFF.md](PROJECT_HANDOFF.md), que sintetiza decisões, estado atual, riscos, alternativas e sequência de trabalho. Este `BOOTSTRAP.md` mantém-se a fonte de verdade das decisões comerciais.
+
 ## 1. Missão e decisão central (não alterar sem decisão explícita)
 
 Criar um **portal editorial/montra turística independente, especializado exclusivamente no Algarve**, onde um visitante (prioritariamente do Reino Unido) encontra ideias de férias e entra numa das **5 categorias comerciais**. Cada categoria encaminha para **um parceiro afiliado principal**, através de links de tracking autorizados pela Awin. Os parceiros pesquisam disponibilidade, executam a reserva, cobram ao cliente e prestam o serviço/atendimento.
