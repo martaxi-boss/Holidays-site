@@ -43,11 +43,13 @@ A tese de negócio é simples: conteúdo local útil + SEO de pesquisas britâni
 
 - **Oeste/Costa Vicentina:** Aljezur, Burgau, Salema; acrescentar localidades próximas conforme procura real.
 - **Barlavento:** Lagos, Alvor, Portimão, Praia da Rocha.
-- **Centro:** Albufeira, Armação de Pêra e arredores.
-- **Sotavento:** Faro (especialmente aeroporto), Olhão, Tavira, Manta Rota, Altura, Monte Gordo.
+- **Centro e área de Loulé:** Albufeira, Armação de Pêra, **Vilamoura**, **Quinta do Lago** e arredores.
+- **Sotavento:** **Faro (cidade e aeroporto)**, Olhão, Tavira, Manta Rota, Altura, Monte Gordo.
 - Outras localidades do Algarve entram quando existirem pesquisa, informação útil e parceiros relevantes; a lista não é limite rígido.
 
-**Prioridade inicial de conteúdo (hipótese a validar por pesquisa de palavras-chave):** Albufeira; Lagos; Portimão + Praia da Rocha; Tavira; Faro Airport para transferências. Criar páginas para Aljezur/Burgau/Salema/Alvor/Armação de Pêra/Olhão/Manta Rota/Altura/Monte Gordo em ondas posteriores, **sem abandonar estas zonas**.
+**Destinos principais e prioridade editorial (a fasear por pesquisa de palavras-chave):** **Faro (cidade e aeroporto), Vilamoura e Quinta do Lago**, além de Albufeira, Lagos, Portimão/Praia da Rocha e Tavira. Estes três destinos foram explicitamente acrescentados pelo proprietário e **não são apenas pontos secundários**. Criar primeiro uma seleção de 10–15 páginas completas; publicar o restante núcleo prioritário nas primeiras ondas. Criar páginas para Aljezur/Burgau/Salema/Alvor/Armação de Pêra/Olhão/Manta Rota/Altura/Monte Gordo em ondas posteriores, **sem abandonar estas zonas**.
+
+**Adenda do proprietário — 2026-11-19:** Faro (a cidade, não só o aeroporto), Vilamoura e Quinta do Lago integram o **grupo dos destinos turísticos principais** a destacar na navegação e no SEO, sem reduzir a cobertura já definida para o Algarve.
 
 ## 5. Experiência do utilizador e navegação
 
@@ -68,7 +70,7 @@ Homepage em inglês com:
 - `/holidays-cruises/`
 - `/tours-activities/`
 - `/airport-transfers/`
-- `/destinations/albufeira/`, `/destinations/lagos/`, `/destinations/tavira/`, etc.
+- `/destinations/faro/`, `/destinations/vilamoura/`, `/destinations/quinta-do-lago/`, `/destinations/albufeira/`, `/destinations/lagos/`, `/destinations/tavira/`, etc.
 - Páginas específicas para intenção real, ex.: `/albufeira-boat-trips/`, `/faro-airport-to-lagos/`.
 - Evitar criar todas as combinações categoria × localidade como páginas indexáveis sem conteúdo distintivo.
 
@@ -123,7 +125,7 @@ Medições recomendadas: `clicks_out`, `awin_clicks`, `transactions_pending`, `t
 - Conteúdo `en-GB` original, útil e específico por destino/atividade; boas imagens com licença, dados verificados, títulos naturais, breadcrumbs, ligações internas e páginas rápidas para mobile.
 - Google Search Console (propriedade verificada), sitemap XML, robots, canonical correto, indexação conferida por inspeção de URL; medir impressões e cliques por país=UK, página e consulta.
 - Criar 10–15 páginas realmente boas primeiro; aumentar sem produção automática massiva nem copiar catálogos/descrições de parceiros.
-- Pesquisar previamente volume/dificuldade/intenção no Reino Unido. Exemplos **hipotéticos**, não resultados de ferramentas: "best boat trips in Albufeira", "Benagil cave tours", "Faro airport to Lagos transfer", "family things to do in Tavira", "villas in Lagos Algarve".
+- Pesquisar previamente volume/dificuldade/intenção no Reino Unido. Exemplos **hipotéticos**, não resultados de ferramentas: "best boat trips in Albufeira", "Benagil cave tours", "Faro airport to Lagos transfer", "Faro old town guide", "Vilamoura marina and golf", "Quinta do Lago family holidays", "family things to do in Tavira", "villas in Lagos Algarve".
 - Construir reputação com referências genuínas; não comprar links nem criar redes artificiais de backlinks.
 - Medição da conversão por categorias e parceiros; orçamento de publicidade **não decidido**.
 - Planeamento detalhado: [docs/SEO_ALGARVE_2027.md](docs/SEO_ALGARVE_2027.md).
