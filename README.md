@@ -1,6 +1,6 @@
 # Holidays Site — Algarve tourism affiliate portal
 
-**Estado: planeamento documentado; site ainda não desenvolvido/publicado.**  
+**Estado: planeamento, pesquisa de GitHub/web, escolha de base para protótipo e especificação funcional documentados; site ainda não desenvolvido/publicado.**  
 **Atualizado em:** 2026-11-19  
 **Mercado-alvo:** turistas do Reino Unido que pesquisam férias no Algarve.  
 **Idioma do portal:** inglês britânico (`en-GB`).  
@@ -13,7 +13,10 @@
 - [docs/PARTNERS_AWIN.md](docs/PARTNERS_AWIN.md) — matriz detalhada dos 4 parceiros principais, 5 categorias, condições, riscos, alternativas e verificação do tracking.
 - [docs/SEO_ALGARVE_2027.md](docs/SEO_ALGARVE_2027.md) — estratégia de conteúdo, localidades, SEO para UK e calendário até ao verão de 2027.
 - [docs/EXECUTION_PLAN.md](docs/EXECUTION_PLAN.md) — plano de lançamento, tarefas, critérios de aceitação, medições e guardrails operacionais.
-- [docs/GITHUB_PUBLIC_REFERENCES.md](docs/GITHUB_PUBLIC_REFERENCES.md) — **pesquisa de 10 projetos públicos reutilizáveis**, demos, licenças, exemplos de design e opções para não construir tudo do zero.
+- [docs/GITHUB_PUBLIC_REFERENCES.md](docs/GITHUB_PUBLIC_REFERENCES.md) — pesquisa inicial de repositórios públicos, demos, licenças e opções para não construir tudo do zero.
+- [docs/DECISAO_TECNICA_2026.md](docs/DECISAO_TECNICA_2026.md) — **recomendação técnica concreta**: Astro + MasuRii Travelblog como primeiro protótipo, Bookworm como fallback; mapas de código, riscos e critérios de aceitação.
+- [docs/REFERENCIAS_WEB_REAIS.md](docs/REFERENCIAS_WEB_REAIS.md) — **sites turísticos reais do Algarve** para estudar a navegação, os cartões, os guias e a experiência de utilização, sem copiar conteúdos.
+- [docs/BLUEPRINT_MVP_ALGARVE.md](docs/BLUEPRINT_MVP_ALGARVE.md) — **planta funcional pronta para desenvolvimento**: homepage, menu, cinco categorias, páginas por localidade, modelo de dados, links Awin e testes.
 
 > **Importante:** a presença de uma marca na documentação não significa adesão ou aprovação do programa Awin. As taxas e condições devem ser confirmadas no momento da adesão. Cliques não garantem comissão.
 
