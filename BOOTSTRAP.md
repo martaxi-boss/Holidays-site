@@ -180,7 +180,7 @@ Medições recomendadas: `clicks_out`, `awin_clicks`, `transactions_pending`, `t
 
 Foi feita uma pesquisa de projetos **públicos de terceiros** para evitar criar toda a base de origem. A lista documentada está em [docs/GITHUB_PUBLIC_REFERENCES.md](docs/GITHUB_PUBLIC_REFERENCES.md), com links, demos, licenças e riscos. **Candidatos a protótipo:** MasuRii Travelblog (Astro, destinos, mapa, pesquisa; MIT) e Themefisher Bookworm Light Astro (base editorial e SEO; MIT); AstroPaper MIT é alternativa forte de conteúdo. Travello e Tourism Website servem como referências de apresentação. Pagefind, Leaflet e Lychee são funcionalidades pontuais.
 
-**Não foi ainda escolhido framework definitivo, nem clonado/instalado/incorporado código, nem feita auditoria de dependências ou build.** Os repositórios de terceiros não têm autorização para alterar as cinco categorias, quatro parceiros ou âmbito exclusivo do Algarve. Testar as duas bases em ambiente isolado antes de escolher uma, sem instalar serviços globais ou trazer licenças/fotografias não permitidas. Não copiar código de repositórios sem licença verificada.
+**Decisão técnica RECOMENDADA para o primeiro protótipo (ainda sujeita a testes reais):** **Astro com páginas estáticas**, aproveitando [MasuRii Travelblog](https://github.com/MasuRii/travelblog-website-template) (MIT) como base inicial, com **Bookworm Light Astro** (MIT) como fallback. O código foi parcialmente inspecionado por ficheiros específicos; **não houve clone, build, teste de segurança ou publicação**. A recomendação e os critérios de aceitação estão em [docs/DECISAO_TECNICA_2026.md](docs/DECISAO_TECNICA_2026.md). Sites reais e ideias visuais em [docs/REFERENCIAS_WEB_REAIS.md](docs/REFERENCIAS_WEB_REAIS.md); modelo da homepage, cinco categorias, localidades e ligação afiliada em [docs/BLUEPRINT_MVP_ALGARVE.md](docs/BLUEPRINT_MVP_ALGARVE.md). Os repositórios de terceiros não têm autorização para alterar o âmbito comercial do projeto. Testar isoladamente, sem instalações globais nem fotografias sem licença.
 
 ## 15. Documentação e continuidade
 
@@ -191,5 +191,9 @@ Foi feita uma pesquisa de projetos **públicos de terceiros** para evitar criar 
 | [docs/PARTNERS_AWIN.md](docs/PARTNERS_AWIN.md) | Parceiros, métricas, termos e backups |
 | [docs/SEO_ALGARVE_2027.md](docs/SEO_ALGARVE_2027.md) | Estratégia geográfica, conteúdo e SEO |
 | [docs/EXECUTION_PLAN.md](docs/EXECUTION_PLAN.md) | Próximos passos, tarefas, QA e acompanhamento |
+| [docs/GITHUB_PUBLIC_REFERENCES.md](docs/GITHUB_PUBLIC_REFERENCES.md) | Projetos de terceiros, demos e licenças |
+| [docs/DECISAO_TECNICA_2026.md](docs/DECISAO_TECNICA_2026.md) | Escolha de base Astro para protótipo, mapeamento de código e gates |
+| [docs/REFERENCIAS_WEB_REAIS.md](docs/REFERENCIAS_WEB_REAIS.md) | Benchmark de portais e sites reais do Algarve |
+| [docs/BLUEPRINT_MVP_ALGARVE.md](docs/BLUEPRINT_MVP_ALGARVE.md) | Plano de UI/UX, páginas, dados, categorias e testes |
 
 **Regra para futuros trabalhos:** ler estes ficheiros antes de começar; conservar a arquitetura comercial, **não alterar decisões já aprovadas sem pedido do proprietário**; acrescentar evidência nova e estado comprovado. A documentação de hoje é um **plano**, não um relatório de implementação.
