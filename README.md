@@ -9,6 +9,8 @@
 
 ## Começar por aqui
 
+**[PROJECT_HANDOFF.md](PROJECT_HANDOFF.md) — LER PRIMEIRO:** dossier consolidado para retomar o trabalho sem perder decisões, com cinco categorias, quatro parceiros, arquitetura, riscos, prioridades e ordem de execução.
+
 - [BOOTSTRAP.md](BOOTSTRAP.md) — **fonte de verdade do projeto**, decisões do proprietário, categorias, modelo comercial, regras de alteração e próximos passos.
 - [docs/PARTNERS_AWIN.md](docs/PARTNERS_AWIN.md) — matriz detalhada dos 4 parceiros principais, 5 categorias, condições, riscos, alternativas e verificação do tracking.
 - [docs/SEO_ALGARVE_2027.md](docs/SEO_ALGARVE_2027.md) — estratégia de conteúdo, localidades, SEO para UK e calendário até ao verão de 2027.
