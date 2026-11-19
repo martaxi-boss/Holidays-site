@@ -24,6 +24,8 @@ Documentos vinculativos: [../BOOTSTRAP.md](../BOOTSTRAP.md), [PARTNERS_AWIN.md](
 
 - [ ] Confirmar requisitos de conteúdo para UK e estudar SERPs concorrentes por **Faro (cidade e aeroporto), Vilamoura, Quinta do Lago**, Albufeira, Lagos, Portimão/Praia da Rocha e Tavira.
 - [ ] Criar lista de palavras-chave com procura/concorrência **reais e fontes datadas** (ainda não foi feita).
+- [ ] Comparar as **duas bases públicas candidatas** [MasuRii Travelblog](https://github.com/MasuRii/travelblog-website-template) e [Bookworm Light Astro](https://github.com/themefisher/bookworm-light-astro), conforme [GITHUB_PUBLIC_REFERENCES.md](GITHUB_PUBLIC_REFERENCES.md): licença, dependências, build, mobile, SEO, complexidade, direitos de imagens e facilidade de adaptar 5 categorias/4 parceiros. **Ainda não foi feito build ou instalação.**
+- [ ] Selecionar **uma única base técnica** após os testes e registar o commit upstream utilizado; não juntar vários templates inteiros.
 - [ ] Escolher marca e domínio, verificando disponibilidade antes de comprar.
 - [ ] Selecionar stack simples e compatível com Google; evitar backend complexo antes de haver procura.
 - [ ] Organizar conteúdo e configuração de parceiros separadamente para permitir troca de parceiro sem reescrever rotas.
