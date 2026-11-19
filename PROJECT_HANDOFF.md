@@ -6,6 +6,14 @@
 **Destinatários:** proprietário, ChatGPT Work, Codex, Ferrari e futuros colaboradores técnicos.  
 **Este é o ponto de entrada para retomar o trabalho sem repetir a discussão.** Leia primeiro este ficheiro e depois os documentos específicos no índice abaixo.
 
+## Adenda de estado — contactos antecipados em 19/11/2026
+
+Por instrução explícita do proprietário, foram enviados e verificados quatro pedidos individuais de pré-parceria para Holidu UK, Logitravel PT (um contacto para duas categorias), Viator UK e SunTransfers, ainda antes da construção do site. **Não foram submetidas candidaturas formais Awin.** Os quatro programas foram consultados como **Not joined**; não há resposta, manifestação de interesse recebida ou pré-aprovação na verificação inicial.
+
+O registo atual e as mensagens efetivamente enviadas estão em [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md). Esse ficheiro passa a ser a referência atual para contactos/adesões; as indicações abaixo de “não iniciados” descrevem o snapshot anterior. A sequência histórica de aguardar publicação não impede estes contactos expressamente autorizados. Candidatura formal sem website continua dependente de admissibilidade confirmada pelo programa.
+
+O portal, domínio e deploy continuam por criar. A parceria com qualquer dos quatro permanece não garantida. A alternativa Logitravel UK 8094 foi apenas identificada para esclarecimento; nenhum parceiro/programa foi trocado.
+
 ## 1. Resumo executivo — o negócio em 60 segundos
 
 O proprietário quer um **portal independente sobre férias e turismo em todo o Algarve, Portugal**, com conteúdo exclusivamente em **inglês britânico (`en-GB`)**, dirigido prioritariamente a turistas do **Reino Unido**, com SEO orgânico e perspetiva de ganhar tração antes do **verão de 2027**.
