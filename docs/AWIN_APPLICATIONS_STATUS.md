@@ -1,5 +1,24 @@
 # Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
 
+## Atualização final — Shuttle Direct UK submetida na Awin, 20/11/2026
+
+**Shuttle Direct UK 120379: candidatura formal submetida e estado Pending Approval confirmado no navegador.** O proprietário confirmou a submissão com Join; foram aceites os termos específicos e o botão foi acionado uma vez. A Awin exibiu a confirmação de envio ao anunciante e o formulário deixou de estar visível. Conta Lowcost 3157353, promoção Content, sem associar outro website.
+
+**Instrução atual: tratar pedidos e explicações dentro da Awin; não enviar mais emails.** Os emails anteriores ficam apenas como histórico factual. Nesta operação não foi enviado email.
+
+A mensagem no próprio formulário explica expressamente validação das parcerias antes do investimento na construção, ausência de site/domínio/audiência/tráfego/vendas, novo negócio independente, Algarve/UK/en-GB/SEO/2027, cinco categorias, transfers Faro, responsabilidades do parceiro e pedido de avaliação condicional/requisitos. Foi retirada a referência ao email do resumo antes de submeter.
+
+A candidatura está pendente, **sem aprovação ou pré-aprovação**. Próximo passo: aguardar avaliação na Awin; avançar na categoria com o primeiro entre Shuttle Direct e SunTransfers que aprovar e confirmar condições adequadas, mantendo um só principal. A SunTransfers continua rejeitada no último estado consultado, com revisão anteriormente pedida. Não assumir alteração desse estado.
+
+### Texto efetivamente submetido no formulário Awin
+
+```text
+Holidays Site - Algarve is a NEW independent business under Lowcost 3157353. We are validating partner acceptance BEFORE investing in website development. No website, final domain, audience, traffic or sales yet; other account sites are unrelated. Planned en-GB Algarve tourism portal for UK holidaymakers, original guides and organic UK SEO, preparing for 2027. Five service categories; Shuttle Direct would be principal Airport Transfers partner (Faro to Algarve destinations). Visitors book/pay on your site; you handle availability, cancellations and support. We provide content/referrals only. Please assess this pre-launch model, offer conditional interest/pre-approval if possible, or specify final website/content/technical/traffic criteria. Confirm UK-to-Algarve eligibility, routes, commission/exclusions, attribution, approved links/tools and whether to recontact at launch. Please confirm private/shared service eligibility. Please clarify Awin Exposure Level 4/payment status.
+```
+
+As referências seguintes a “Shuttle Direct ainda não submetida” descrevem etapas históricas ultrapassadas.
+
+
 ## Revisão das apresentações e decisão UK — 20/11/2026
 
 O proprietário determinou que **apenas Logitravel UK 8094 interessa ao projeto**, sem prosseguir Logitravel PT. A candidatura PT rejeitada permanece só no histórico; não foi reaberta. Cinco categorias preservadas, com UK nas duas categorias Logitravel.
