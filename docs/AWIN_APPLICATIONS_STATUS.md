@@ -1,5 +1,58 @@
 # Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
 
+## Revisão das apresentações e decisão UK — 20/11/2026
+
+O proprietário determinou que **apenas Logitravel UK 8094 interessa ao projeto**, sem prosseguir Logitravel PT. A candidatura PT rejeitada permanece só no histórico; não foi reaberta. Cinco categorias preservadas, com UK nas duas categorias Logitravel.
+
+Foram lidos os corpos reais em Enviados (não apenas os assuntos/snippets) e comparados com as mensagens documentadas dos formulários Awin:
+
+| Parceiro/programa | Apresentação verificada | Ação após revisão |
+|---|---|---|
+| Holidu UK | Email detalhado + resumo Awin: site inexistente, modelo UK/Algarve, SEO, condições antes de construir e pré-aprovação | Já claro; não enviado duplicado |
+| Viator UK | Email detalhado + resumo Awin com os mesmos pontos e categoria própria | Já claro; não enviado duplicado |
+| SunTransfers | Email inicial e pedido de revisão manual explicitam projeto sem site e requisitos antes de construir | Já claro; revisão solicitada anteriormente, sem novo duplicado |
+| Shuttle Direct UK | Proposta longa ao gestor explicita validação antes do investimento; formulário preparado com resumo equivalente | Email enviado; formulário ainda não submetido nesta etapa |
+| Logitravel UK | Resumo Awin já dizia pre-launch; faltava uma apresentação longa dirigida especificamente ao gestor UK | Proposta detalhada enviada e verificada em Enviados |
+| Logitravel PT | Email inicial também era transparente | Excluído da estratégia comercial por decisão do proprietário |
+
+**Não foram editadas ou reapresentadas as candidaturas já submetidas nesta revisão.** A Logitravel UK recebeu complemento comercial ao gestor oficial visto no perfil Awin; não uma nova candidatura. Proposta enviada a tamar.montoya@logitravel.com; Gmail devolveu SENT e a conversa foi lida para confirmar. Nenhuma resposta/aprovação foi obtida por esta ação. Uma apresentação clara reduz ambiguidades, mas não elimina requisitos de website nem garante aprovação.
+
+### Complemento comercial enviado à Logitravel UK
+
+**Assunto:** Detailed pre-launch business proposal | Logitravel UK 8094 | Algarve portal | Awin 3157353
+
+```text
+Dear Tamar,
+
+We have submitted an application to Logitravel UK, Awin advertiser 8094, through publisher Lowcost (3157353), for Holidays Site - Algarve (working title). We are writing to expand the short Awin application and make our business model and current stage clear.
+
+Our project owner has now selected Logitravel UK as the intended Logitravel programme because our audience is British. The earlier PT programme enquiry is not the commercial route we intend to pursue. We are seeking assessment for programme 8094, not commission twice across two programmes.
+
+We are validating commercial partnerships BEFORE investing in website development. This is a business proposal in preparation, not an existing website seeking to add links. There is no final domain, published portal, existing audience, traffic or sales. Other websites attached to the Lowcost account are independent projects and should not be assessed as if they were this tourism portal. We do not ask you to bypass site review: if full approval must wait for publication, please tell us whether the proposed model is acceptable in principle and what objective criteria the future website must meet. A conditional expression of interest would help us decide how to build; we would not describe it as official Awin approval.
+
+The planned portal will specialise exclusively in the Algarve, Portugal, with original British-English destination guides and useful tourism content for UK residents planning holidays and British visitors already in the region. Our main acquisition channel will be organic SEO for relevant UK searches. We are preparing for the 2027 tourist season; publication will follow development and commercial readiness, not a guaranteed launch date or sales forecast.
+
+Our five service categories will be Villas & Apartments, Hotels & Resorts, Holidays & Cruises, Tours & Activities, and Airport Transfers, with one principal partner per category. We would like Logitravel UK to cover Hotels & Resorts and Holidays & Cruises where products genuinely fit the Algarve proposition. Editorial coverage includes Faro, Albufeira, Lagos, Vilamoura, Quinta do Lago, Portimao, Praia da Rocha, Tavira and the wider Algarve.
+
+Visitors would follow authorised Awin links to Logitravel's official UK-facing booking service. You would handle availability, prices, bookings, payments, cancellations and customer support; we would handle original or licensed content, promotion and referrals. We would not collect travel payments, operate a checkout or present invented prices or reviews.
+
+Please confirm:
+1. Can you assess this pre-launch model, and offer conditional interest/pre-approval subject to future website review?
+2. Can our application be considered through the existing account using Content, with no unrelated website presented as the portal?
+3. What editorial, technical, disclosure, legal and minimum traffic requirements apply to final approval, and should we recontact you when the domain and site are ready?
+4. Are UK customers booking Algarve hotels/resorts, packages departing from UK airports and relevant cruises eligible under 8094? Which categories, including standalone flights, are excluded or restricted?
+5. What commission rates/calculation basis, attribution, cancellation and validation rules apply?
+6. Which UK-facing deep links, banners, feeds, widgets or APIs are available, and are any content permissions required?
+7. The Awin UK profile currently shows Exposure Level 4 and 99 days average payment time. Please clarify the current payment position and settlement arrangements.
+
+We want to understand feasibility and requirements before committing development resources, and to build a durable, compliant affiliation if your team accepts the proposal.
+
+Kind regards,
+Holidays Site - Algarve project
+Awin publisher Lowcost | Publisher ID 3157353
+```
+
+
 ## Shuttle Direct UK — proposta detalhada enviada e formulário preparado, 20/11/2026
 
 O proprietário autorizou candidatar também **Shuttle Direct UK 120379** como alternativa para Airport Transfers, avançando com o primeiro parceiro que aprovar e confirmar condições adequadas, mantendo apenas um principal na categoria.
