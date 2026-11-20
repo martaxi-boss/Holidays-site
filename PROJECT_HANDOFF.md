@@ -1,5 +1,10 @@
 # PROJECT HANDOFF — Holidays Site / Algarve 2027
 
+## Atualização de parcerias — 20/11/2026
+
+Consulta autenticada Awin: **Holidu UK, Viator UK e Logitravel UK continuam pendentes; Logitravel PT e SunTransfers foram rejeitadas em 20/11. Nenhuma candidatura turística aprovada.** Motivos não fornecidos pela listagem nem encontrados na pesquisa de email; não presumir causa. Ver [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md). As declarações de todos pendentes nas adendas seguintes são históricas.
+
+
 **Estado:** `PLANEAMENTO CONSOLIDADO — PRONTO PARA INICIAR IMPLEMENTAÇÃO`  
 **Data de referência:** 19 de novembro de 2026  
 **Repositório:** https://github.com/martaxi-boss/Holidays-site — `main`  
