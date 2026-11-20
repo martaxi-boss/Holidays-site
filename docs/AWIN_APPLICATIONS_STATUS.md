@@ -1,5 +1,63 @@
 # Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
 
+## SunTransfers — pedido de revisão manual em 20/11/2026
+
+- **Estado da candidatura:** rejeitada; sem reversão demonstrada. Motivo ainda desconhecido.
+- **Ação executada:** pedido de revisão manual enviado em 20/11/2026 às 15:10:48 (Europe/Lisbon) para o gestor oficial identificado nos termos Awin, annerese.wessels@searlco.com, com cópia a affiliates@suntransfers.com.
+- **Prova:** Gmail devolveu SENT e a conversa foi lida posteriormente, confirmando destinatários, assunto e corpo. Só havia a nossa mensagem; sem resposta/pre-aprovação.
+- Foi pedido motivo concreto, eventual revisão/pre-aprovação condicional e requisitos objetivos para recandidatura. Foi esclarecido que as outras propriedades da conta são independentes do portal turístico.
+- Não foi submetida recandidatura duplicada, criado website ou contactado anunciante alternativo.
+
+### Plano de continuidade da categoria Airport Transfers
+
+| Opção | Estado consultado | Adequação e condições verificadas | Ainda falta |
+|---|---|---|---|
+| SunTransfers 111238 | Rejeitada; revisão pedida | Parceiro original; gestor Searlco confirmado nos termos | Motivo, reapreciação e critérios de aprovação |
+| Shuttle Direct UK 120379 | Not joined; linkStatus online; deep links ativos | Programa UK/GBP; site inglês tem Faro e rotas Algarve; termos Awin: 3% privados e 8% partilhados, pagamento após serviço, cancelamentos excluídos; cookie público 30 dias | Aceitação de projeto sem site, elegibilidade contratual UK→Algarve, base/serviços excluídos, aprovação |
+| Holiday Taxis 15375 | Not joined; linkStatus online; deep links ativos | Programa UK/GBP; perfil público anuncia 8% e cookie 30 dias; exige rel=sponsored, aprovação de textos/imagens e sem brand bidding segundo texto dos termos | Cobertura Faro por rota e aprovação/elegibilidade do nosso projeto |
+
+**Recomendação de reserva:** Shuttle Direct UK, pela cobertura Faro documentada e termos explícitos privados/partilhados. Isto não é substituição do parceiro nem aprovação. O proprietário não autorizou nesta operação uma candidatura alternativa; foi feita pesquisa, sem contacto a outros anunciantes.
+
+Dados de performance Awin são históricos e não previsão: Shuttle Direct média de pagamento 126 dias, Holiday Taxis 63 dias na consulta; não assumir pagamento imediato. commissionRange vazio nas duas consultas. O texto livre dos termos Holiday Taxis restringe brand bidding mesmo havendo flags estruturadas inconsistentes; respeitar o texto e pedir esclarecimento antes de publicidade.
+
+Fontes consultadas em 20/11/2026:
+- Termos Awin autenticados IDs 111238, 120379 e 15375.
+- https://ui.awin.com/merchant-profile/120379
+- https://www.shuttledirect.com/en/airport/fao.html
+- https://ui.awin.com/merchant-profile/15375
+- awin_get_programme_details IDs 120379 e 15375.
+
+### Pedido enviado ao gestor SunTransfers
+
+**Assunto:** Request for manual review: SunTransfers 111238 / Awin publisher 3157353 / Algarve pre-launch portal
+
+```text
+Dear Annerese,
+
+I am contacting you as the SunTransfers Awin programme manager identified in the programme terms. Our application for advertiser 111238, under publisher Lowcost (3157353), changed to rejected on 20 November 2026. The platform status available to us does not give the reason. We also sent a pre-launch enquiry to affiliates@suntransfers.com on 19 November.
+
+Could you please explain the rejection and review the proposal manually, or advise what must change before a future application?
+
+This application is specifically for Holidays Site - Algarve (working title), a NEW independent editorial tourism project aimed at UK holidaymakers visiting the Algarve, with British-English content and organic UK SEO, preparing for the 2027 tourist season. There is no published website, final domain, traffic or sales yet. Other promotional properties attached to the existing Lowcost account are unrelated to this project; we are not presenting any of them as this portal.
+
+SunTransfers is our intended principal partner for one dedicated Airport Transfers category, supported by original guides to Faro Airport transfers to Albufeira, Lagos, Vilamoura, Quinta do Lago, Portimao, Tavira and other actually covered Algarve destinations. Customers would book and pay on your official website; we would provide original or licensed content and affiliate referrals only. We would follow your brand, authorised-link and advertising-disclosure rules, with no brand bidding or invented offers.
+
+Could you confirm:
+- Whether the rejection relates to the absent website, the existing account properties, the promotional model, or another requirement.
+- Whether conditional pre-approval or an expression of interest is possible before launch, followed by a review of our genuine new domain.
+- If a live website is mandatory, the exact editorial, technical and traffic criteria and how/when to request reconsideration without creating duplicate applications.
+- Whether UK customers booking Faro/Algarve transfers are eligible, and the applicable commission basis, exclusions, deep links and approved promotional tools.
+
+We are not asking you to treat an unpublished portal as live or to guarantee approval. We want to resolve the requirements before building and establish a durable partnership.
+
+Thank you for your guidance.
+
+Kind regards,
+Holidays Site - Algarve project
+Awin publisher Lowcost | 3157353
+```
+
+
 ## Estado atualizado — consulta autenticada em 20/11/2026
 
 | Programa | ID | Estado real Awin | Última alteração do estado (Europe/Lisbon) |
