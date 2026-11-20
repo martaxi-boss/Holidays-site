@@ -1,5 +1,10 @@
 # PROJECT HANDOFF — Holidays Site / Algarve 2027
 
+## Estado final Shuttle Direct — 20/11/2026
+
+Shuttle Direct UK 120379 foi **submetida dentro da Awin** e o estado **Pending Approval** confirmado, com apresentação explícita do projeto ainda sem website e validação de parceiros antes de construir. Usado Content, sem outro domínio. O proprietário determinou **não enviar mais emails: pedidos e explicações pela Awin**. O histórico anterior de formulário preparado está ultrapassado. Ver [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md). Sem aprovação ainda; SunTransfers permanece rejeitada no último estado consultado. Avançar com o primeiro parceiro de transfers que aprovar e confirmar elegibilidade, mantendo um principal.
+
+
 ## Decisão atual do proprietário — 20/11/2026: Logitravel UK
 
 **Logitravel UK, Awin ID 8094**, é agora o programa escolhido para **Hotels & Resorts** e **Holidays & Cruises**, sujeito a aprovação e elegibilidade. **Logitravel PT 11173 deixa de ser opção comercial do projeto**; referências PT abaixo são históricas e não autorizam a sua implementação. A candidatura PT foi rejeitada e não será reativada nesta missão.
