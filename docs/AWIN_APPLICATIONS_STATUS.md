@@ -1,5 +1,53 @@
 # Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
 
+## Shuttle Direct UK — proposta detalhada enviada e formulário preparado, 20/11/2026
+
+O proprietário autorizou candidatar também **Shuttle Direct UK 120379** como alternativa para Airport Transfers, avançando com o primeiro parceiro que aprovar e confirmar condições adequadas, mantendo apenas um principal na categoria.
+
+- Proposta comercial detalhada enviada a **Kelly Roberts, kelly.roberts@syyco.co.uk**, contacto oficial visto no perfil autenticado Awin; envio SENT e conversa posteriormente verificados.
+- Explicação central: estamos a validar aceitação/condições **antes de investir na construção**; website/domínio/tráfego/vendas ainda inexistentes. Reino Unido/en-GB/Algarve, SEO e horizonte 2027 detalhados, cinco categorias e papel exato do parceiro explicados.
+- Pedidos: pré-aprovação/interesse condicional, critérios objetivos para site futuro, elegibilidade UK→Algarve, serviços/rotas, comissões/exclusões, ferramentas e pagamentos.
+- **Estado formal nesta etapa: formulário preparado, ainda não submetido.** Login concluído na conta Lowcost 3157353; tipo Content selecionado, sem associar outro website. Checkbox de aceitação dos termos ainda desmarcada; aguarda confirmação desse passo contratual.
+- Perfil mostrou **Exposure Level 4**, referente a limite de crédito e liquidação, e média de pagamento de 126 dias. Esclarecimento incluído na proposta e no resumo Awin.
+- Sem resposta, pré-aprovação ou aprovação recebida.
+
+### Proposta enviada
+
+**Assunto:** Pre-launch business proposal: Algarve portal for UK holidaymakers | Shuttle Direct UK 120379 | Publisher 3157353
+
+```text
+Dear Kelly,
+
+We would like to discuss a long-term affiliate partnership with Shuttle Direct UK (Awin advertiser 120379) for a new independent business, working title Holidays Site - Algarve. We use the existing Awin publisher account Lowcost, ID 3157353, but this tourism project is separate from the other websites or promotional properties on that account.
+
+Why we are approaching you before building
+We are validating our intended commercial partnerships before investing in website development. We want to establish whether you accept this business model and learn the approval requirements so the website can be designed correctly from the outset. The website does not yet exist: there is no final domain, published portal, audience, traffic or sales to present. We are not claiming otherwise or offering guaranteed sales. If formal approval must wait for a live site, a conditional expression of interest and clear review criteria would help us make the development decision. We understand this would not be official Awin approval.
+
+The business we are preparing
+The portal will focus exclusively on holidays and tourism throughout the Algarve, Portugal, with British-English content for UK residents planning a visit and British visitors already in the region. We are preparing for the 2027 tourist season, with initial publication when development and commercial conditions allow. We plan a professional website built on an open-source technical base, with original destination guides, licensed photographs and useful travel information.
+
+There will be five service categories: Villas & Apartments, Hotels & Resorts, Holidays & Cruises, Tours & Activities, and Airport Transfers. Each category will have one principal approved commercial partner. We are considering Shuttle Direct UK for Airport Transfers, particularly Faro Airport journeys to Albufeira, Lagos, Vilamoura, Quinta do Lago, Portimao, Praia da Rocha, Tavira, Aljezur, Olhao, Monte Gordo and other routes you actually cover.
+
+Acquisition and booking model
+Our main acquisition channel will be organic SEO aimed at relevant UK searches, supported by destination guides and specific airport-transfer content. Visitors would click an authorised affiliate link to your official booking website. You would handle availability, prices, reservations, payments, cancellations and customer support. We would publish content and refer interested travellers; we would not collect travel payments, operate transfers or maintain a separate booking checkout. We would respect brand restrictions, authorised creatives and clear affiliate disclosures.
+
+Could you please advise:
+1. Do you accept applications from publishers whose website is not yet built, or offer conditional pre-approval/an expression of interest before launch?
+2. Can this project be assessed through our existing Awin account using the Content promotional type, without presenting another website as the tourism portal?
+3. What minimum editorial, technical, legal and traffic requirements must be met for final approval, and must we contact you again once the domain/site is live?
+4. Are UK-origin customers booking Faro/Algarve services eligible under programme 120379? Which routes and private/shared products are included or excluded?
+5. Please confirm the commission calculation basis, rates (we have read 3% private and 8% shared in the Awin terms), attribution and cancellation/validation rules.
+6. What deep links, banners, widgets, feeds or APIs can approved partners use, and what content permissions apply?
+7. The Awin profile currently shows Exposure Level 4 and an average payment time of 126 days. Could you clarify the current payment situation and expected settlement arrangements before we commit the category?
+
+We would value a substantive assessment of the business proposal and practical conditions for progressing. We are seeking a durable partnership, not to bypass website review or obtain approval on false information.
+
+Kind regards,
+Holidays Site - Algarve project
+Awin publisher Lowcost | Publisher ID 3157353
+```
+
+
 ## SunTransfers — pedido de revisão manual em 20/11/2026
 
 - **Estado da candidatura:** rejeitada; sem reversão demonstrada. Motivo ainda desconhecido.
