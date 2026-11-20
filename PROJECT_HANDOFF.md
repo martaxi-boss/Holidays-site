@@ -1,5 +1,10 @@
 # PROJECT HANDOFF — Holidays Site / Algarve 2027
 
+## Recuperação SunTransfers — 20/11/2026
+
+Foi enviado e verificado pedido de revisão manual ao gestor oficial Searlco, com cópia à SunTransfers, pedindo motivo da rejeição e condições de pré-aprovação/recandidatura. **Sem resposta; a candidatura continua rejeitada.** Shuttle Direct UK 120379 foi verificada como reserva (cobertura Faro; termos 3% privados/8% partilhados após serviço); Holiday Taxis 15375 como segunda hipótese. Nenhuma candidatura/contacto alternativo ou mudança de parceiro foi efetuada. Ver mensagem e detalhes em [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md).
+
+
 ## Atualização de parcerias — 20/11/2026
 
 Consulta autenticada Awin: **Holidu UK, Viator UK e Logitravel UK continuam pendentes; Logitravel PT e SunTransfers foram rejeitadas em 20/11. Nenhuma candidatura turística aprovada.** Motivos não fornecidos pela listagem nem encontrados na pesquisa de email; não presumir causa. Ver [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md). As declarações de todos pendentes nas adendas seguintes são históricas.
