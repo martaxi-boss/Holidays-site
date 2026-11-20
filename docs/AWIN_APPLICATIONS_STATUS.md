@@ -1,5 +1,22 @@
 # Awin — candidaturas formais e pré-parcerias Holidays Site Algarve
 
+## Estado atualizado — consulta autenticada em 20/11/2026
+
+| Programa | ID | Estado real Awin | Última alteração do estado (Europe/Lisbon) |
+|---|---:|---|---|
+| Holidu UK | 31469 | APPLICATION_PENDING — pendente | 19/11/2026 21:53:44 |
+| Logitravel PT | 11173 | APPLICATION_REJECTED — rejeitada | 20/11/2026 08:38:27 |
+| Viator UK | 7038 | APPLICATION_PENDING — pendente | 19/11/2026 21:54:09 |
+| SunTransfers | 111238 | APPLICATION_REJECTED — rejeitada | 20/11/2026 05:53:05 |
+| Logitravel UK | 8094 | APPLICATION_PENDING — pendente | 19/11/2026 22:01:11 |
+
+**Nenhuma candidatura do Holidays Site foi aprovada nesta consulta.** Existem três pendentes e duas rejeitadas. A consulta awin_list_partnerships confirmou os estados, mas não devolveu os motivos de rejeição. Uma pesquisa no Gmail por SunTransfers/Logitravel desde 19/11 encontrou apenas as nossas mensagens enviadas, sem resposta explicativa encontrada. **Não atribuir as rejeições à ausência de website sem confirmação do anunciante.**
+
+Próximos passos: esclarecer motivos e condições de futura candidatura com os gestores de Logitravel PT e SunTransfers; aguardar decisão de Holidu, Viator e Logitravel UK. Não reapresentar automaticamente candidaturas nem ativar links como se houvesse aprovação. Não foi enviado novo contacto nesta verificação.
+
+Os estados “todos pendentes” abaixo são históricos, da submissão em 19/11.
+
+
 ## Atualização — Logitravel UK 8094 também submetida
 
 **Data:** 19/11/2026. Por pedido adicional do proprietário e confirmação expressa dos termos, foi submetida a candidatura **Logitravel UK, Advertiser ID 8094**, na conta Lowcost 3157353.
