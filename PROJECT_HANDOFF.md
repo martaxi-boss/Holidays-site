@@ -1,5 +1,16 @@
 # PROJECT HANDOFF — Holidays Site / Algarve 2027
 
+## Decisão atual do proprietário — 20/11/2026: Logitravel UK
+
+**Logitravel UK, Awin ID 8094**, é agora o programa escolhido para **Hotels & Resorts** e **Holidays & Cruises**, sujeito a aprovação e elegibilidade. **Logitravel PT 11173 deixa de ser opção comercial do projeto**; referências PT abaixo são históricas e não autorizam a sua implementação. A candidatura PT foi rejeitada e não será reativada nesta missão.
+
+Público UK, conteúdo en-GB e Algarve mantêm-se. Continuam cinco categorias e quatro empresas principais, com um parceiro por categoria. Para Airport Transfers, SunTransfers está em revisão após rejeição e Shuttle Direct UK 120379 está autorizada como candidata alternativa: o proprietário quer avançar com a primeira que aprovar e confirmar condições adequadas, sem ativar duas como principais. No último registo, Shuttle Direct tinha proposta detalhada enviada e formulário Awin preparado, **ainda não submetido**, à espera da aceitação específica dos termos.
+
+Foi revista a apresentação comercial enviada aos parceiros: Holidu, Viator e SunTransfers já explicavam ausência de website/domínio/tráfego/vendas e pedido de condições/pré-aprovação antes de construir. A Shuttle Direct recebeu proposta detalhada equivalente. A Logitravel UK recebeu também uma apresentação longa ao gestor em 20/11, focada exclusivamente no programa UK, para complementar os 1000 caracteres da candidatura. Não foi assumido que a boa apresentação garante aprovação.
+
+Ver registo e textos em [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md).
+
+
 ## Recuperação SunTransfers — 20/11/2026
 
 Foi enviado e verificado pedido de revisão manual ao gestor oficial Searlco, com cópia à SunTransfers, pedindo motivo da rejeição e condições de pré-aprovação/recandidatura. **Sem resposta; a candidatura continua rejeitada.** Shuttle Direct UK 120379 foi verificada como reserva (cobertura Faro; termos 3% privados/8% partilhados após serviço); Holiday Taxis 15375 como segunda hipótese. Nenhuma candidatura/contacto alternativo ou mudança de parceiro foi efetuada. Ver mensagem e detalhes em [docs/AWIN_APPLICATIONS_STATUS.md](docs/AWIN_APPLICATIONS_STATUS.md).
